@@ -31,7 +31,7 @@ To use this script, simply run the following command:
 
 python main.py
 
-This will run the main function in the scraper.py file, 
+This will run the main function in the main.py file, 
 which calls the get_data_html function to get HTML data of a webpage and then calls the get_items_urls 
 function to extract URLs of items.
 
