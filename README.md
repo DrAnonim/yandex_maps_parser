@@ -37,13 +37,15 @@ function to extract URLs of items.
 
 Functions
 
-get_data_html(url: str) -> None
+get_data_html
 
 This function uses Selenium to get the HTML data of a webpage. It saves the page source to a file named 'index.html'.
-get_items_urls(file_path: str) -> str
+
+get_items_urls
 
 This function reads HTML data from a file and extracts URLs of items. 
 It saves the URLs to a file named 'urls.txt' and returns a string '[INFO Urls collected!]'.
+
 main() -> None
 
 This function is the main entry point of the script. 
