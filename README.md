@@ -29,7 +29,7 @@ How to use
 
 To use this script, simply run the following command:
 
-python scraper.py
+python main.py
 
 This will run the main function in the scraper.py file, 
 which calls the get_data_html function to get HTML data of a webpage and then calls the get_items_urls 
