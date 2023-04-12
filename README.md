@@ -7,7 +7,7 @@ Clone the repository to your local machine using the command:
 
 bash
 
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/DrAnonim/yandex_maps_parser.git
 
 Replace 'yourusername' and 'yourrepository' with your account and repository names, respectively.
 
